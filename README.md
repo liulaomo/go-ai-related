@@ -5,3 +5,4 @@
 * [GoCV](https://gocv.io/) - a Go binding of OpenCV.
 * [Pigo](https://github.com/esimov/pigo) is a pure Go face detection library based on Pixel Intensity Comparison-based Object detection paper (https://arxiv.org/pdf/1305.4537.pdf).
 * [Gorgonia](https://github.com/gorgonia/gorgonia) is a library that helps facilitate machine learning in Go.
+* [sklearn](https://github.com/pa-m/sklearn) - Partial port of scikit-learn to Go.
